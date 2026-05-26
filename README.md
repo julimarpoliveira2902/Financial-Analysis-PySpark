@@ -29,6 +29,9 @@ Run the cells to see the Spark DataFrame transformations and final visualization
 └── requirements.txt                     # Project dependencies
 ---
 
+## 📊 Visualização de Performance
+![Financial Performance](analise_performance_tech.png)
+
 ## 👨‍💻 Autor
 **Julimar Pedro de Oliveira**
 
